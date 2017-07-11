@@ -1,0 +1,26 @@
+{
+  "name": "@synapsestudios/acl",
+  "version": "1.0.0",
+  "description": "A fast in-memory ACL with role/resource inheritance and support for custom assertions forked from virgen-acl.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/synapsestudios/acl"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "~3.2.0",
+    "should": "~11.2.0",
+    "typescript": "^2.2.2",
+    "typescript-definition-tester": "^0.0.5"
+  },
+  "keywords": [
+    "acl"
+  ],
+  "types": "./typings.d.ts",
+  "author": "Hector Virgen (http://www.virgentech.com) <hector@virgentech.com>",
+  "license": "BSD"
+}
