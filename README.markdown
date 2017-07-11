@@ -1,10 +1,3 @@
-Synapse ACL
-==========
-
-Simple in-memory ACL for node.js apps. Supports arbitrary roles and resources,
-including role/resource detection using a simple interface. Additionally
-supports custom assertions for more complex rules.
-
 Why Synapse ACL?
 ---------------
 
