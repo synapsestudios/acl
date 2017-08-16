@@ -21,6 +21,6 @@
     "acl"
   ],
   "types": "./typings.d.ts",
-  "author": "Hector Virgen (http://www.virgentech.com) <hector@virgentech.com>",
+  "author": "Synapse Studios, LLC",
   "license": "BSD"
 }
